@@ -1,0 +1,15 @@
+,,All Types,Liver: Status 1A,Liver: Status 1B,Liver: MELD / PELD <15,Liver: MELD / PELD 15-19,Liver: MELD / PELD 20-24,Liver: MELD / PELD 25-29,Liver: MELD / PELD 30-34,Liver: MELD / PELD 35+,Liver: Status Inactive,Heart: Status 1A,Heart: Status 1B,Heart: Status 2,Heart: Adult Status 1,Heart: Adult Status 2,Heart: Adult Status 3,Heart: Adult Status 4,Heart: Adult Status 5,Heart: Adult Status 6,Heart: Status 7 (Inactive),"Lung/Heart-Lung: Less Than 12 Years, Priority 1","Lung/Heart-Lung: Less Than 12 Years, Priority 2",Lung/Heart-Lung: CAS < 20.0,Lung/Heart-Lung: CAS 20.0 to < 21.0,Lung/Heart-Lung: CAS 21.0 to < 22.0,Lung/Heart-Lung: CAS 22.0 to < 23.0,Lung/Heart-Lung: CAS 23.0 to < 24.0,Lung/Heart-Lung: CAS 24.0+,Lung/Heart-Lung: Inactive,Intestine: Status 1,Intestine: Non-urgent,Intestine: Temporarily inactive,Kidney/Pancreas/Kidney-Pancreas: Active,Kidney/Panc/Kidney-Panc: Active-Medically urgent,Kidney/Panc/Kidney-Panc: Temporarily inactive,VCA: Active,VCA: Inactive
+All Organs,,"120,462",2,14,"3,343","1,881",993,204,90,52,"2,419",216,147,71,31,261,182,"1,707",143,559,703,10,10,126,90,77,61,92,546,4,85,24,55,"56,739",3,"49,511",8,3
+Kidney,,"102,962",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"55,260",3,"47,699",0,0
+Liver,,"8,998",2,14,"3,343","1,881",993,204,90,52,"2,419",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pancreas,,825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,161,0,664,0,0
+Kidney / Pancreas,,"2,466",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"1,318",0,"1,148",0,0
+Heart,,"4,020",0,0,0,0,0,0,0,0,0,216,147,71,31,261,182,"1,707",143,559,703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lung,,992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,9,125,86,75,60,91,536,0,0,0,0,0,0,0,0,0
+Heart / Lung,,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,2,1,1,10,4,0,0,0,0,0,0,0,0
+Intestine,,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,24,55,0,0,0,0,0
+VCA - abdominal wall,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+VCA - head and neck,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+VCA - other genitourinary organ,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+VCA - upper limb,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+VCA - uterus,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1

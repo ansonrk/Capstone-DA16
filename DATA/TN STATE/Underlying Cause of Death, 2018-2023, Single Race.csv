@@ -1,0 +1,589 @@
+"Notes","State","State Code","Year","Year Code","Cause of death","Cause of death Code",Deaths,Population,Crude Rate,Age Adjusted Rate
+,"Tennessee","47","2018","2018","Mitral stenosis","I05.0",16,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Mitral valve disease, unspecified","I05.9",28,6770010,0.4,0.4
+,"Tennessee","47","2018","2018","Disorders of both mitral and aortic valves","I08.0",13,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Essential (primary) hypertension","I10",424,6770010,6.3,5.1
+,"Tennessee","47","2018","2018","Hypertensive heart disease with (congestive) heart failure","I11.0",700,6770010,10.3,8.9
+,"Tennessee","47","2018","2018","Hypertensive heart disease without (congestive) heart failure","I11.9",903,6770010,13.3,11.4
+,"Tennessee","47","2018","2018","Hypertensive renal disease with renal failure","I12.0",321,6770010,4.7,4.0
+,"Tennessee","47","2018","2018","Hypertensive renal disease without renal failure","I12.9",20,6770010,0.3,0.3
+,"Tennessee","47","2018","2018","Hypertensive heart and renal disease with (congestive) heart failure","I13.0",45,6770010,0.7,0.6
+,"Tennessee","47","2018","2018","Hypertensive heart and renal disease with renal failure","I13.1",107,6770010,1.6,1.4
+,"Tennessee","47","2018","2018","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","I13.2",156,6770010,2.3,2.0
+,"Tennessee","47","2018","2018","Hypertensive heart and renal disease, unspecified","I13.9",35,6770010,0.5,0.4
+,"Tennessee","47","2018","2018","Acute subendocardial myocardial infarction","I21.4",201,6770010,3.0,2.4
+,"Tennessee","47","2018","2018","Acute myocardial infarction, unspecified","I21.9",3378,6770010,49.9,41.0
+,"Tennessee","47","2018","2018","Other forms of acute ischaemic heart disease","I24.8",10,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Acute ischaemic heart disease, unspecified","I24.9",55,6770010,0.8,0.7
+,"Tennessee","47","2018","2018","Atherosclerotic cardiovascular disease, so described","I25.0",1811,6770010,26.8,21.7
+,"Tennessee","47","2018","2018","Atherosclerotic heart disease","I25.1",3785,6770010,55.9,46.4
+,"Tennessee","47","2018","2018","Ischaemic cardiomyopathy","I25.5",252,6770010,3.7,3.1
+,"Tennessee","47","2018","2018","Other forms of chronic ischaemic heart disease","I25.8",17,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Chronic ischaemic heart disease, unspecified","I25.9",386,6770010,5.7,4.8
+,"Tennessee","47","2018","2018","Pulmonary embolism without mention of acute cor pulmonale","I26.9",218,6770010,3.2,2.7
+,"Tennessee","47","2018","2018","Other secondary pulmonary hypertension","I27.2",142,6770010,2.1,1.8
+,"Tennessee","47","2018","2018","Pulmonary heart disease, unspecified","I27.9",21,6770010,0.3,0.3
+,"Tennessee","47","2018","2018","Pericardial effusion (noninflammatory)","I31.3",11,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Acute and subacute infective endocarditis","I33.0",60,6770010,0.9,0.8
+,"Tennessee","47","2018","2018","Mitral (valve) insufficiency","I34.0",36,6770010,0.5,0.5
+,"Tennessee","47","2018","2018","Aortic (valve) stenosis","I35.0",260,6770010,3.8,3.3
+,"Tennessee","47","2018","2018","Aortic (valve) insufficiency","I35.1",10,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Other aortic valve disorders","I35.8",16,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Aortic valve disorder, unspecified","I35.9",31,6770010,0.5,0.4
+,"Tennessee","47","2018","2018","Endocarditis, valve unspecified","I38",96,6770010,1.4,1.2
+,"Tennessee","47","2018","2018","Dilated cardiomyopathy","I42.0",76,6770010,1.1,1.0
+,"Tennessee","47","2018","2018","Other hypertrophic cardiomyopathy","I42.2",17,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Alcoholic cardiomyopathy","I42.6",12,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Cardiomyopathy, unspecified","I42.9",249,6770010,3.7,3.1
+,"Tennessee","47","2018","2018","Atrioventricular block, complete","I44.2",17,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Other specified conduction disorders","I45.8",35,6770010,0.5,0.4
+,"Tennessee","47","2018","2018","Sudden cardiac death, so described","I46.1",62,6770010,0.9,0.8
+,"Tennessee","47","2018","2018","Cardiac arrest, unspecified","I46.9",404,6770010,6.0,4.9
+,"Tennessee","47","2018","2018","Ventricular tachycardia","I47.2",26,6770010,0.4,0.3
+,"Tennessee","47","2018","2018","Atrial fibrillation and flutter","I48",521,6770010,7.7,6.5
+,"Tennessee","47","2018","2018","Ventricular fibrillation and flutter","I49.0",50,6770010,0.7,0.6
+,"Tennessee","47","2018","2018","Sick sinus syndrome","I49.5",12,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Cardiac arrhythmia, unspecified","I49.9",117,6770010,1.7,1.4
+,"Tennessee","47","2018","2018","Congestive heart failure","I50.0",1209,6770010,17.9,15.2
+,"Tennessee","47","2018","2018","Left ventricular failure","I50.1",17,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Heart failure, unspecified","I50.9",302,6770010,4.5,3.7
+,"Tennessee","47","2018","2018","Cardiovascular disease, unspecified","I51.6",136,6770010,2.0,1.7
+,"Tennessee","47","2018","2018","Cardiomegaly","I51.7",52,6770010,0.8,0.7
+,"Tennessee","47","2018","2018","Other ill-defined heart diseases","I51.8",53,6770010,0.8,0.6
+,"Tennessee","47","2018","2018","Heart disease, unspecified","I51.9",124,6770010,1.8,1.5
+,"Tennessee","47","2018","2018","Subarachnoid haemorrhage, unspecified","I60.9",117,6770010,1.7,1.5
+,"Tennessee","47","2018","2018","Intracerebral haemorrhage in hemisphere, subcortical","I61.0",12,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Intracerebral haemorrhage in brain stem","I61.3",15,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Intracerebral haemorrhage in cerebellum","I61.4",12,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Intracerebral haemorrhage, intraventricular","I61.5",31,6770010,0.5,0.4
+,"Tennessee","47","2018","2018","Intracerebral haemorrhage, unspecified","I61.9",332,6770010,4.9,4.1
+,"Tennessee","47","2018","2018","Subdural haemorrhage (acute)(nontraumatic)","I62.0",93,6770010,1.4,1.2
+,"Tennessee","47","2018","2018","Intracranial haemorrhage (nontraumatic), unspecified","I62.9",189,6770010,2.8,2.3
+,"Tennessee","47","2018","2018","Cerebral infarction due to thrombosis of precerebral arteries","I63.0",11,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries","I63.2",36,6770010,0.5,0.4
+,"Tennessee","47","2018","2018","Cerebral infarction due to thrombosis of cerebral arteries","I63.3",13,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Cerebral infarction due to embolism of cerebral arteries","I63.4",43,6770010,0.6,0.5
+,"Tennessee","47","2018","2018","Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries","I63.5",13,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Cerebral infarction, unspecified","I63.9",422,6770010,6.2,5.3
+,"Tennessee","47","2018","2018","Stroke, not specified as haemorrhage or infarction","I64",1426,6770010,21.1,17.6
+,"Tennessee","47","2018","2018","Cerebral atherosclerosis","I67.2",69,6770010,1.0,0.9
+,"Tennessee","47","2018","2018","Other specified cerebrovascular diseases","I67.8",33,6770010,0.5,0.4
+,"Tennessee","47","2018","2018","Cerebrovascular disease, unspecified","I67.9",184,6770010,2.7,2.3
+,"Tennessee","47","2018","2018","Sequelae of cerebral infarction","I69.3",27,6770010,0.4,0.3
+,"Tennessee","47","2018","2018","Sequelae of stroke, not specified as haemorrhage or infarction","I69.4",254,6770010,3.8,3.2
+,"Tennessee","47","2018","2018","Sequelae of other and unspecified cerebrovascular diseases","I69.8",82,6770010,1.2,1.0
+,"Tennessee","47","2018","2018","Generalized and unspecified atherosclerosis","I70.9",48,6770010,0.7,0.6
+,"Tennessee","47","2018","2018","Dissection of aorta [any part]","I71.0",76,6770010,1.1,1.0
+,"Tennessee","47","2018","2018","Thoracic aortic aneurysm, ruptured","I71.1",10,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Thoracic aortic aneurysm, without mention of rupture","I71.2",10,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Abdominal aortic aneurysm, ruptured","I71.3",70,6770010,1.0,0.8
+,"Tennessee","47","2018","2018","Abdominal aortic aneurysm, without mention of rupture","I71.4",22,6770010,0.3,0.3
+,"Tennessee","47","2018","2018","Aortic aneurysm of unspecified site, ruptured","I71.8",24,6770010,0.4,0.3
+,"Tennessee","47","2018","2018","Aortic aneurysm of unspecified site, without mention of rupture","I71.9",13,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Aneurysm of unspecified site","I72.9",13,6770010,Unreliable,Unreliable
+,"Tennessee","47","2018","2018","Peripheral vascular disease, unspecified","I73.9",181,6770010,2.7,2.2
+,"Tennessee","47","2018","2018","Phlebitis and thrombophlebitis of other deep vessels of lower extremities","I80.2",79,6770010,1.2,1.1
+"Total","Tennessee","47","2018","2018",,,21338,6770010,315.2,263.6
+,"Tennessee","47","2019","2019","Mitral stenosis","I05.0",14,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Mitral valve disease, unspecified","I05.9",29,6829174,0.4,0.3
+,"Tennessee","47","2019","2019","Tricuspid insufficiency","I07.1",13,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Disorders of both mitral and aortic valves","I08.0",16,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Essential (primary) hypertension","I10",402,6829174,5.9,4.8
+,"Tennessee","47","2019","2019","Hypertensive heart disease with (congestive) heart failure","I11.0",873,6829174,12.8,10.9
+,"Tennessee","47","2019","2019","Hypertensive heart disease without (congestive) heart failure","I11.9",1016,6829174,14.9,12.5
+,"Tennessee","47","2019","2019","Hypertensive renal disease with renal failure","I12.0",334,6829174,4.9,4.1
+,"Tennessee","47","2019","2019","Hypertensive renal disease without renal failure","I12.9",34,6829174,0.5,0.4
+,"Tennessee","47","2019","2019","Hypertensive heart and renal disease with (congestive) heart failure","I13.0",55,6829174,0.8,0.7
+,"Tennessee","47","2019","2019","Hypertensive heart and renal disease with renal failure","I13.1",160,6829174,2.3,2.0
+,"Tennessee","47","2019","2019","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","I13.2",249,6829174,3.6,3.1
+,"Tennessee","47","2019","2019","Hypertensive heart and renal disease, unspecified","I13.9",46,6829174,0.7,0.6
+,"Tennessee","47","2019","2019","Acute subendocardial myocardial infarction","I21.4",176,6829174,2.6,2.1
+,"Tennessee","47","2019","2019","Acute myocardial infarction, unspecified","I21.9",3188,6829174,46.7,37.8
+,"Tennessee","47","2019","2019","Other forms of acute ischaemic heart disease","I24.8",10,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Acute ischaemic heart disease, unspecified","I24.9",71,6829174,1.0,0.8
+,"Tennessee","47","2019","2019","Atherosclerotic cardiovascular disease, so described","I25.0",1949,6829174,28.5,22.9
+,"Tennessee","47","2019","2019","Atherosclerotic heart disease","I25.1",4007,6829174,58.7,47.8
+,"Tennessee","47","2019","2019","Ischaemic cardiomyopathy","I25.5",196,6829174,2.9,2.3
+,"Tennessee","47","2019","2019","Other forms of chronic ischaemic heart disease","I25.8",10,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Chronic ischaemic heart disease, unspecified","I25.9",355,6829174,5.2,4.3
+,"Tennessee","47","2019","2019","Pulmonary embolism without mention of acute cor pulmonale","I26.9",216,6829174,3.2,2.7
+,"Tennessee","47","2019","2019","Other secondary pulmonary hypertension","I27.2",154,6829174,2.3,1.8
+,"Tennessee","47","2019","2019","Pulmonary heart disease, unspecified","I27.9",14,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Acute and subacute infective endocarditis","I33.0",51,6829174,0.7,0.7
+,"Tennessee","47","2019","2019","Mitral (valve) insufficiency","I34.0",57,6829174,0.8,0.7
+,"Tennessee","47","2019","2019","Aortic (valve) stenosis","I35.0",260,6829174,3.8,3.2
+,"Tennessee","47","2019","2019","Aortic (valve) insufficiency","I35.1",11,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Aortic valve disorder, unspecified","I35.9",31,6829174,0.5,0.4
+,"Tennessee","47","2019","2019","Endocarditis, valve unspecified","I38",114,6829174,1.7,1.4
+,"Tennessee","47","2019","2019","Dilated cardiomyopathy","I42.0",79,6829174,1.2,1.0
+,"Tennessee","47","2019","2019","Alcoholic cardiomyopathy","I42.6",17,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Cardiomyopathy, unspecified","I42.9",265,6829174,3.9,3.2
+,"Tennessee","47","2019","2019","Atrioventricular block, complete","I44.2",18,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Other specified conduction disorders","I45.8",38,6829174,0.6,0.4
+,"Tennessee","47","2019","2019","Sudden cardiac death, so described","I46.1",48,6829174,0.7,0.6
+,"Tennessee","47","2019","2019","Cardiac arrest, unspecified","I46.9",329,6829174,4.8,3.9
+,"Tennessee","47","2019","2019","Ventricular tachycardia","I47.2",20,6829174,0.3,0.2
+,"Tennessee","47","2019","2019","Atrial fibrillation and flutter","I48",511,6829174,7.5,6.3
+,"Tennessee","47","2019","2019","Ventricular fibrillation and flutter","I49.0",44,6829174,0.6,0.5
+,"Tennessee","47","2019","2019","Sick sinus syndrome","I49.5",20,6829174,0.3,0.2
+,"Tennessee","47","2019","2019","Cardiac arrhythmia, unspecified","I49.9",128,6829174,1.9,1.6
+,"Tennessee","47","2019","2019","Congestive heart failure","I50.0",1087,6829174,15.9,13.3
+,"Tennessee","47","2019","2019","Left ventricular failure","I50.1",19,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Heart failure, unspecified","I50.9",363,6829174,5.3,4.5
+,"Tennessee","47","2019","2019","Myocarditis, unspecified","I51.4",21,6829174,0.3,0.3
+,"Tennessee","47","2019","2019","Cardiovascular disease, unspecified","I51.6",140,6829174,2.1,1.7
+,"Tennessee","47","2019","2019","Cardiomegaly","I51.7",55,6829174,0.8,0.8
+,"Tennessee","47","2019","2019","Other ill-defined heart diseases","I51.8",32,6829174,0.5,0.4
+,"Tennessee","47","2019","2019","Heart disease, unspecified","I51.9",101,6829174,1.5,1.2
+,"Tennessee","47","2019","2019","Other subarachnoid haemorrhage","I60.8",18,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Subarachnoid haemorrhage, unspecified","I60.9",130,6829174,1.9,1.6
+,"Tennessee","47","2019","2019","Intracerebral haemorrhage in hemisphere, subcortical","I61.0",17,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Intracerebral haemorrhage in brain stem","I61.3",19,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Intracerebral haemorrhage, intraventricular","I61.5",35,6829174,0.5,0.4
+,"Tennessee","47","2019","2019","Intracerebral haemorrhage, unspecified","I61.9",352,6829174,5.2,4.3
+,"Tennessee","47","2019","2019","Subdural haemorrhage (acute)(nontraumatic)","I62.0",84,6829174,1.2,1.0
+,"Tennessee","47","2019","2019","Intracranial haemorrhage (nontraumatic), unspecified","I62.9",191,6829174,2.8,2.3
+,"Tennessee","47","2019","2019","Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries","I63.2",46,6829174,0.7,0.6
+,"Tennessee","47","2019","2019","Cerebral infarction due to thrombosis of cerebral arteries","I63.3",13,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Cerebral infarction due to embolism of cerebral arteries","I63.4",63,6829174,0.9,0.8
+,"Tennessee","47","2019","2019","Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries","I63.5",13,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Cerebral infarction, unspecified","I63.9",305,6829174,4.5,3.7
+,"Tennessee","47","2019","2019","Stroke, not specified as haemorrhage or infarction","I64",1476,6829174,21.6,17.9
+,"Tennessee","47","2019","2019","Cerebral atherosclerosis","I67.2",65,6829174,1.0,0.8
+,"Tennessee","47","2019","2019","Other specified cerebrovascular diseases","I67.8",32,6829174,0.5,0.4
+,"Tennessee","47","2019","2019","Cerebrovascular disease, unspecified","I67.9",165,6829174,2.4,2.0
+,"Tennessee","47","2019","2019","Sequelae of other nontraumatic intracranial haemorrhage","I69.2",10,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Sequelae of cerebral infarction","I69.3",25,6829174,0.4,0.3
+,"Tennessee","47","2019","2019","Sequelae of stroke, not specified as haemorrhage or infarction","I69.4",225,6829174,3.3,2.7
+,"Tennessee","47","2019","2019","Sequelae of other and unspecified cerebrovascular diseases","I69.8",74,6829174,1.1,0.9
+,"Tennessee","47","2019","2019","Atherosclerosis of arteries of extremities","I70.2",10,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Generalized and unspecified atherosclerosis","I70.9",61,6829174,0.9,0.7
+,"Tennessee","47","2019","2019","Dissection of aorta [any part]","I71.0",97,6829174,1.4,1.2
+,"Tennessee","47","2019","2019","Abdominal aortic aneurysm, ruptured","I71.3",53,6829174,0.8,0.6
+,"Tennessee","47","2019","2019","Abdominal aortic aneurysm, without mention of rupture","I71.4",26,6829174,0.4,0.3
+,"Tennessee","47","2019","2019","Aortic aneurysm of unspecified site, ruptured","I71.8",17,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Aortic aneurysm of unspecified site, without mention of rupture","I71.9",10,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Aneurysm of unspecified site","I72.9",10,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Peripheral vascular disease, unspecified","I73.9",210,6829174,3.1,2.5
+,"Tennessee","47","2019","2019","Embolism and thrombosis of unspecified artery","I74.9",10,6829174,Unreliable,Unreliable
+,"Tennessee","47","2019","2019","Phlebitis and thrombophlebitis of other deep vessels of lower extremities","I80.2",88,6829174,1.3,1.1
+,"Tennessee","47","2019","2019","Phlebitis and thrombophlebitis of lower extremities, unspecified","I80.3",10,6829174,Unreliable,Unreliable
+"Total","Tennessee","47","2019","2019",,,21726,6829174,318.1,262.5
+,"Tennessee","47","2020","2020","Mitral stenosis","I05.0",12,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Mitral valve disease, unspecified","I05.9",30,6886834,0.4,0.4
+,"Tennessee","47","2020","2020","Rheumatic heart disease, unspecified","I09.9",10,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Essential (primary) hypertension","I10",532,6886834,7.7,6.3
+,"Tennessee","47","2020","2020","Hypertensive heart disease with (congestive) heart failure","I11.0",1011,6886834,14.7,12.2
+,"Tennessee","47","2020","2020","Hypertensive heart disease without (congestive) heart failure","I11.9",1228,6886834,17.8,14.6
+,"Tennessee","47","2020","2020","Hypertensive renal disease with renal failure","I12.0",433,6886834,6.3,5.2
+,"Tennessee","47","2020","2020","Hypertensive renal disease without renal failure","I12.9",62,6886834,0.9,0.8
+,"Tennessee","47","2020","2020","Hypertensive heart and renal disease with (congestive) heart failure","I13.0",47,6886834,0.7,0.6
+,"Tennessee","47","2020","2020","Hypertensive heart and renal disease with renal failure","I13.1",163,6886834,2.4,1.9
+,"Tennessee","47","2020","2020","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","I13.2",321,6886834,4.7,3.9
+,"Tennessee","47","2020","2020","Hypertensive heart and renal disease, unspecified","I13.9",88,6886834,1.3,1.1
+,"Tennessee","47","2020","2020","Acute subendocardial myocardial infarction","I21.4",202,6886834,2.9,2.4
+,"Tennessee","47","2020","2020","Acute myocardial infarction, unspecified","I21.9",3477,6886834,50.5,40.4
+,"Tennessee","47","2020","2020","Acute ischaemic heart disease, unspecified","I24.9",65,6886834,0.9,0.8
+,"Tennessee","47","2020","2020","Atherosclerotic cardiovascular disease, so described","I25.0",2155,6886834,31.3,25.1
+,"Tennessee","47","2020","2020","Atherosclerotic heart disease","I25.1",4205,6886834,61.1,49.2
+,"Tennessee","47","2020","2020","Ischaemic cardiomyopathy","I25.5",188,6886834,2.7,2.1
+,"Tennessee","47","2020","2020","Other forms of chronic ischaemic heart disease","I25.8",26,6886834,0.4,0.3
+,"Tennessee","47","2020","2020","Chronic ischaemic heart disease, unspecified","I25.9",268,6886834,3.9,3.2
+,"Tennessee","47","2020","2020","Pulmonary embolism without mention of acute cor pulmonale","I26.9",269,6886834,3.9,3.4
+,"Tennessee","47","2020","2020","Other secondary pulmonary hypertension","I27.2",145,6886834,2.1,1.7
+,"Tennessee","47","2020","2020","Pulmonary heart disease, unspecified","I27.9",18,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Acute and subacute infective endocarditis","I33.0",54,6886834,0.8,0.7
+,"Tennessee","47","2020","2020","Mitral (valve) insufficiency","I34.0",49,6886834,0.7,0.6
+,"Tennessee","47","2020","2020","Aortic (valve) stenosis","I35.0",238,6886834,3.5,2.9
+,"Tennessee","47","2020","2020","Aortic (valve) insufficiency","I35.1",12,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Other aortic valve disorders","I35.8",16,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Aortic valve disorder, unspecified","I35.9",23,6886834,0.3,0.3
+,"Tennessee","47","2020","2020","Endocarditis, valve unspecified","I38",128,6886834,1.9,1.6
+,"Tennessee","47","2020","2020","Dilated cardiomyopathy","I42.0",72,6886834,1.0,0.9
+,"Tennessee","47","2020","2020","Other hypertrophic cardiomyopathy","I42.2",17,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Alcoholic cardiomyopathy","I42.6",25,6886834,0.4,0.3
+,"Tennessee","47","2020","2020","Cardiomyopathy, unspecified","I42.9",219,6886834,3.2,2.6
+,"Tennessee","47","2020","2020","Atrioventricular block, complete","I44.2",13,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Other specified conduction disorders","I45.8",46,6886834,0.7,0.5
+,"Tennessee","47","2020","2020","Sudden cardiac death, so described","I46.1",58,6886834,0.8,0.6
+,"Tennessee","47","2020","2020","Cardiac arrest, unspecified","I46.9",417,6886834,6.1,4.8
+,"Tennessee","47","2020","2020","Ventricular tachycardia","I47.2",19,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Atrial fibrillation and flutter","I48",491,6886834,7.1,5.8
+,"Tennessee","47","2020","2020","Ventricular fibrillation and flutter","I49.0",43,6886834,0.6,0.5
+,"Tennessee","47","2020","2020","Sick sinus syndrome","I49.5",12,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Cardiac arrhythmia, unspecified","I49.9",120,6886834,1.7,1.5
+,"Tennessee","47","2020","2020","Congestive heart failure","I50.0",1054,6886834,15.3,12.7
+,"Tennessee","47","2020","2020","Heart failure, unspecified","I50.9",408,6886834,5.9,4.9
+,"Tennessee","47","2020","2020","Myocarditis, unspecified","I51.4",12,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Cardiovascular disease, unspecified","I51.6",146,6886834,2.1,1.7
+,"Tennessee","47","2020","2020","Cardiomegaly","I51.7",42,6886834,0.6,0.6
+,"Tennessee","47","2020","2020","Other ill-defined heart diseases","I51.8",24,6886834,0.3,0.3
+,"Tennessee","47","2020","2020","Heart disease, unspecified","I51.9",103,6886834,1.5,1.2
+,"Tennessee","47","2020","2020","Subarachnoid haemorrhage, unspecified","I60.9",139,6886834,2.0,1.7
+,"Tennessee","47","2020","2020","Intracerebral haemorrhage in hemisphere, subcortical","I61.0",10,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Intracerebral haemorrhage in hemisphere, cortical","I61.1",10,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Intracerebral haemorrhage in brain stem","I61.3",16,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Intracerebral haemorrhage in cerebellum","I61.4",14,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Intracerebral haemorrhage, intraventricular","I61.5",27,6886834,0.4,0.4
+,"Tennessee","47","2020","2020","Intracerebral haemorrhage, unspecified","I61.9",318,6886834,4.6,3.8
+,"Tennessee","47","2020","2020","Subdural haemorrhage (acute)(nontraumatic)","I62.0",88,6886834,1.3,1.0
+,"Tennessee","47","2020","2020","Intracranial haemorrhage (nontraumatic), unspecified","I62.9",220,6886834,3.2,2.6
+,"Tennessee","47","2020","2020","Cerebral infarction due to thrombosis of precerebral arteries","I63.0",12,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries","I63.2",52,6886834,0.8,0.6
+,"Tennessee","47","2020","2020","Cerebral infarction due to thrombosis of cerebral arteries","I63.3",18,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Cerebral infarction due to embolism of cerebral arteries","I63.4",55,6886834,0.8,0.6
+,"Tennessee","47","2020","2020","Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries","I63.5",23,6886834,0.3,0.3
+,"Tennessee","47","2020","2020","Cerebral infarction, unspecified","I63.9",369,6886834,5.4,4.4
+,"Tennessee","47","2020","2020","Stroke, not specified as haemorrhage or infarction","I64",1516,6886834,22.0,17.8
+,"Tennessee","47","2020","2020","Cerebral aneurysm, nonruptured","I67.1",13,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Cerebral atherosclerosis","I67.2",123,6886834,1.8,1.5
+,"Tennessee","47","2020","2020","Other specified cerebrovascular diseases","I67.8",38,6886834,0.6,0.5
+,"Tennessee","47","2020","2020","Cerebrovascular disease, unspecified","I67.9",202,6886834,2.9,2.4
+,"Tennessee","47","2020","2020","Sequelae of cerebral infarction","I69.3",25,6886834,0.4,0.3
+,"Tennessee","47","2020","2020","Sequelae of stroke, not specified as haemorrhage or infarction","I69.4",216,6886834,3.1,2.5
+,"Tennessee","47","2020","2020","Sequelae of other and unspecified cerebrovascular diseases","I69.8",116,6886834,1.7,1.4
+,"Tennessee","47","2020","2020","Generalized and unspecified atherosclerosis","I70.9",77,6886834,1.1,1.0
+,"Tennessee","47","2020","2020","Dissection of aorta [any part]","I71.0",76,6886834,1.1,0.9
+,"Tennessee","47","2020","2020","Thoracic aortic aneurysm, ruptured","I71.1",10,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Thoracic aortic aneurysm, without mention of rupture","I71.2",10,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Abdominal aortic aneurysm, ruptured","I71.3",49,6886834,0.7,0.5
+,"Tennessee","47","2020","2020","Abdominal aortic aneurysm, without mention of rupture","I71.4",26,6886834,0.4,0.3
+,"Tennessee","47","2020","2020","Aortic aneurysm of unspecified site, ruptured","I71.8",14,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Aneurysm of unspecified site","I72.9",11,6886834,Unreliable,Unreliable
+,"Tennessee","47","2020","2020","Peripheral vascular disease, unspecified","I73.9",190,6886834,2.8,2.1
+,"Tennessee","47","2020","2020","Phlebitis and thrombophlebitis of other deep vessels of lower extremities","I80.2",76,6886834,1.1,1.0
+"Total","Tennessee","47","2020","2020",,,23302,6886834,338.4,275.7
+,"Tennessee","47","2021","2021","Mitral stenosis","I05.0",16,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Mitral valve disease, unspecified","I05.9",33,6975218,0.5,0.4
+,"Tennessee","47","2021","2021","Disorders of both mitral and aortic valves","I08.0",18,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Essential (primary) hypertension","I10",540,6975218,7.7,6.6
+,"Tennessee","47","2021","2021","Hypertensive heart disease with (congestive) heart failure","I11.0",998,6975218,14.3,12.8
+,"Tennessee","47","2021","2021","Hypertensive heart disease without (congestive) heart failure","I11.9",1309,6975218,18.8,15.9
+,"Tennessee","47","2021","2021","Hypertensive renal disease with renal failure","I12.0",459,6975218,6.6,5.7
+,"Tennessee","47","2021","2021","Hypertensive renal disease without renal failure","I12.9",71,6975218,1.0,0.9
+,"Tennessee","47","2021","2021","Hypertensive heart and renal disease with (congestive) heart failure","I13.0",62,6975218,0.9,0.8
+,"Tennessee","47","2021","2021","Hypertensive heart and renal disease with renal failure","I13.1",153,6975218,2.2,1.9
+,"Tennessee","47","2021","2021","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","I13.2",292,6975218,4.2,3.7
+,"Tennessee","47","2021","2021","Hypertensive heart and renal disease, unspecified","I13.9",84,6975218,1.2,1.1
+,"Tennessee","47","2021","2021","Acute subendocardial myocardial infarction","I21.4",239,6975218,3.4,2.9
+,"Tennessee","47","2021","2021","Acute myocardial infarction, unspecified","I21.9",3540,6975218,50.8,41.6
+,"Tennessee","47","2021","2021","Other forms of acute ischaemic heart disease","I24.8",16,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Acute ischaemic heart disease, unspecified","I24.9",101,6975218,1.4,1.2
+,"Tennessee","47","2021","2021","Atherosclerotic cardiovascular disease, so described","I25.0",2521,6975218,36.1,29.7
+,"Tennessee","47","2021","2021","Atherosclerotic heart disease","I25.1",4166,6975218,59.7,50.4
+,"Tennessee","47","2021","2021","Ischaemic cardiomyopathy","I25.5",166,6975218,2.4,2.0
+,"Tennessee","47","2021","2021","Other forms of chronic ischaemic heart disease","I25.8",11,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Chronic ischaemic heart disease, unspecified","I25.9",229,6975218,3.3,2.9
+,"Tennessee","47","2021","2021","Pulmonary embolism without mention of acute cor pulmonale","I26.9",255,6975218,3.7,3.1
+,"Tennessee","47","2021","2021","Other secondary pulmonary hypertension","I27.2",183,6975218,2.6,2.2
+,"Tennessee","47","2021","2021","Pulmonary heart disease, unspecified","I27.9",18,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Disease of pericardium, unspecified","I31.9",10,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Acute and subacute infective endocarditis","I33.0",45,6975218,0.6,0.6
+,"Tennessee","47","2021","2021","Mitral (valve) insufficiency","I34.0",47,6975218,0.7,0.6
+,"Tennessee","47","2021","2021","Aortic (valve) stenosis","I35.0",232,6975218,3.3,3.0
+,"Tennessee","47","2021","2021","Aortic (valve) insufficiency","I35.1",20,6975218,0.3,0.2
+,"Tennessee","47","2021","2021","Other aortic valve disorders","I35.8",11,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Aortic valve disorder, unspecified","I35.9",13,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Endocarditis, valve unspecified","I38",106,6975218,1.5,1.3
+,"Tennessee","47","2021","2021","Dilated cardiomyopathy","I42.0",79,6975218,1.1,1.0
+,"Tennessee","47","2021","2021","Alcoholic cardiomyopathy","I42.6",22,6975218,0.3,0.3
+,"Tennessee","47","2021","2021","Cardiomyopathy, unspecified","I42.9",255,6975218,3.7,3.1
+,"Tennessee","47","2021","2021","Atrioventricular block, complete","I44.2",22,6975218,0.3,0.3
+,"Tennessee","47","2021","2021","Other specified conduction disorders","I45.8",55,6975218,0.8,0.6
+,"Tennessee","47","2021","2021","Sudden cardiac death, so described","I46.1",76,6975218,1.1,0.9
+,"Tennessee","47","2021","2021","Cardiac arrest, unspecified","I46.9",599,6975218,8.6,7.1
+,"Tennessee","47","2021","2021","Ventricular tachycardia","I47.2",25,6975218,0.4,0.3
+,"Tennessee","47","2021","2021","Atrial fibrillation and flutter","I48",515,6975218,7.4,6.5
+,"Tennessee","47","2021","2021","Ventricular fibrillation and flutter","I49.0",42,6975218,0.6,0.5
+,"Tennessee","47","2021","2021","Sick sinus syndrome","I49.5",10,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Cardiac arrhythmia, unspecified","I49.9",87,6975218,1.2,1.1
+,"Tennessee","47","2021","2021","Congestive heart failure","I50.0",920,6975218,13.2,11.5
+,"Tennessee","47","2021","2021","Left ventricular failure","I50.1",12,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Heart failure, unspecified","I50.9",393,6975218,5.6,4.8
+,"Tennessee","47","2021","2021","Myocarditis, unspecified","I51.4",20,6975218,0.3,0.3
+,"Tennessee","47","2021","2021","Cardiovascular disease, unspecified","I51.6",140,6975218,2.0,1.6
+,"Tennessee","47","2021","2021","Cardiomegaly","I51.7",44,6975218,0.6,0.6
+,"Tennessee","47","2021","2021","Other ill-defined heart diseases","I51.8",34,6975218,0.5,0.4
+,"Tennessee","47","2021","2021","Heart disease, unspecified","I51.9",91,6975218,1.3,1.1
+,"Tennessee","47","2021","2021","Subarachnoid haemorrhage, unspecified","I60.9",134,6975218,1.9,1.6
+,"Tennessee","47","2021","2021","Intracerebral haemorrhage in brain stem","I61.3",16,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Intracerebral haemorrhage in cerebellum","I61.4",19,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Intracerebral haemorrhage, intraventricular","I61.5",28,6975218,0.4,0.3
+,"Tennessee","47","2021","2021","Intracerebral haemorrhage, unspecified","I61.9",354,6975218,5.1,4.3
+,"Tennessee","47","2021","2021","Subdural haemorrhage (acute)(nontraumatic)","I62.0",94,6975218,1.3,1.1
+,"Tennessee","47","2021","2021","Intracranial haemorrhage (nontraumatic), unspecified","I62.9",254,6975218,3.6,3.0
+,"Tennessee","47","2021","2021","Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries","I63.2",55,6975218,0.8,0.7
+,"Tennessee","47","2021","2021","Cerebral infarction due to thrombosis of cerebral arteries","I63.3",11,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Cerebral infarction due to embolism of cerebral arteries","I63.4",55,6975218,0.8,0.7
+,"Tennessee","47","2021","2021","Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries","I63.5",24,6975218,0.3,0.3
+,"Tennessee","47","2021","2021","Cerebral infarction, unspecified","I63.9",396,6975218,5.7,4.9
+,"Tennessee","47","2021","2021","Stroke, not specified as haemorrhage or infarction","I64",1475,6975218,21.1,17.9
+,"Tennessee","47","2021","2021","Cerebral atherosclerosis","I67.2",129,6975218,1.8,1.7
+,"Tennessee","47","2021","2021","Other specified cerebrovascular diseases","I67.8",37,6975218,0.5,0.4
+,"Tennessee","47","2021","2021","Cerebrovascular disease, unspecified","I67.9",176,6975218,2.5,2.3
+,"Tennessee","47","2021","2021","Sequelae of cerebral infarction","I69.3",32,6975218,0.5,0.4
+,"Tennessee","47","2021","2021","Sequelae of stroke, not specified as haemorrhage or infarction","I69.4",219,6975218,3.1,2.6
+,"Tennessee","47","2021","2021","Sequelae of other and unspecified cerebrovascular diseases","I69.8",186,6975218,2.7,2.4
+,"Tennessee","47","2021","2021","Atherosclerosis of arteries of extremities","I70.2",13,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Generalized and unspecified atherosclerosis","I70.9",69,6975218,1.0,0.8
+,"Tennessee","47","2021","2021","Dissection of aorta [any part]","I71.0",80,6975218,1.1,1.0
+,"Tennessee","47","2021","2021","Thoracic aortic aneurysm, ruptured","I71.1",11,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Abdominal aortic aneurysm, ruptured","I71.3",53,6975218,0.8,0.6
+,"Tennessee","47","2021","2021","Abdominal aortic aneurysm, without mention of rupture","I71.4",32,6975218,0.5,0.4
+,"Tennessee","47","2021","2021","Aortic aneurysm of unspecified site, ruptured","I71.8",18,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Aortic aneurysm of unspecified site, without mention of rupture","I71.9",19,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Aneurysm of unspecified site","I72.9",12,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Peripheral vascular disease, unspecified","I73.9",189,6975218,2.7,2.2
+,"Tennessee","47","2021","2021","Embolism and thrombosis of unspecified artery","I74.9",11,6975218,Unreliable,Unreliable
+,"Tennessee","47","2021","2021","Phlebitis and thrombophlebitis of other deep vessels of lower extremities","I80.2",77,6975218,1.1,1.0
+"Total","Tennessee","47","2021","2021",,,24016,6975218,344.3,291.7
+,"Tennessee","47","2022","2022","Mitral stenosis","I05.0",18,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Mitral valve disease, unspecified","I05.9",29,7051339,0.4,0.3
+,"Tennessee","47","2022","2022","Disorders of both mitral and aortic valves","I08.0",17,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Essential (primary) hypertension","I10",573,7051339,8.1,6.7
+,"Tennessee","47","2022","2022","Hypertensive heart disease with (congestive) heart failure","I11.0",1204,7051339,17.1,14.6
+,"Tennessee","47","2022","2022","Hypertensive heart disease without (congestive) heart failure","I11.9",1290,7051339,18.3,15.2
+,"Tennessee","47","2022","2022","Hypertensive renal disease with renal failure","I12.0",408,7051339,5.8,4.8
+,"Tennessee","47","2022","2022","Hypertensive renal disease without renal failure","I12.9",61,7051339,0.9,0.7
+,"Tennessee","47","2022","2022","Hypertensive heart and renal disease with (congestive) heart failure","I13.0",99,7051339,1.4,1.2
+,"Tennessee","47","2022","2022","Hypertensive heart and renal disease with renal failure","I13.1",192,7051339,2.7,2.3
+,"Tennessee","47","2022","2022","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","I13.2",402,7051339,5.7,4.9
+,"Tennessee","47","2022","2022","Hypertensive heart and renal disease, unspecified","I13.9",60,7051339,0.9,0.7
+,"Tennessee","47","2022","2022","Acute subendocardial myocardial infarction","I21.4",203,7051339,2.9,2.3
+,"Tennessee","47","2022","2022","Acute myocardial infarction, unspecified","I21.9",3246,7051339,46.0,37.0
+,"Tennessee","47","2022","2022","Acute ischaemic heart disease, unspecified","I24.9",106,7051339,1.5,1.2
+,"Tennessee","47","2022","2022","Atherosclerotic cardiovascular disease, so described","I25.0",2736,7051339,38.8,31.1
+,"Tennessee","47","2022","2022","Atherosclerotic heart disease","I25.1",4222,7051339,59.9,48.9
+,"Tennessee","47","2022","2022","Ischaemic cardiomyopathy","I25.5",164,7051339,2.3,1.9
+,"Tennessee","47","2022","2022","Other forms of chronic ischaemic heart disease","I25.8",14,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Chronic ischaemic heart disease, unspecified","I25.9",174,7051339,2.5,2.1
+,"Tennessee","47","2022","2022","Pulmonary embolism without mention of acute cor pulmonale","I26.9",253,7051339,3.6,2.9
+,"Tennessee","47","2022","2022","Other secondary pulmonary hypertension","I27.2",179,7051339,2.5,2.1
+,"Tennessee","47","2022","2022","Pulmonary heart disease, unspecified","I27.9",18,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Pericardial effusion (noninflammatory)","I31.3",14,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Disease of pericardium, unspecified","I31.9",11,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Acute and subacute infective endocarditis","I33.0",52,7051339,0.7,0.7
+,"Tennessee","47","2022","2022","Mitral (valve) insufficiency","I34.0",46,7051339,0.7,0.5
+,"Tennessee","47","2022","2022","Aortic (valve) stenosis","I35.0",242,7051339,3.4,2.9
+,"Tennessee","47","2022","2022","Aortic (valve) insufficiency","I35.1",15,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Other aortic valve disorders","I35.8",16,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Aortic valve disorder, unspecified","I35.9",30,7051339,0.4,0.3
+,"Tennessee","47","2022","2022","Endocarditis, valve unspecified","I38",99,7051339,1.4,1.2
+,"Tennessee","47","2022","2022","Dilated cardiomyopathy","I42.0",73,7051339,1.0,0.9
+,"Tennessee","47","2022","2022","Other hypertrophic cardiomyopathy","I42.2",11,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Alcoholic cardiomyopathy","I42.6",34,7051339,0.5,0.4
+,"Tennessee","47","2022","2022","Other cardiomyopathies","I42.8",17,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Cardiomyopathy, unspecified","I42.9",265,7051339,3.8,3.2
+,"Tennessee","47","2022","2022","Atrioventricular block, complete","I44.2",16,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Other specified conduction disorders","I45.8",47,7051339,0.7,0.5
+,"Tennessee","47","2022","2022","Sudden cardiac death, so described","I46.1",92,7051339,1.3,1.1
+,"Tennessee","47","2022","2022","Cardiac arrest, unspecified","I46.9",422,7051339,6.0,4.8
+,"Tennessee","47","2022","2022","Ventricular tachycardia","I47.2",19,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Atrial fibrillation and flutter","I48",542,7051339,7.7,6.5
+,"Tennessee","47","2022","2022","Ventricular fibrillation and flutter","I49.0",51,7051339,0.7,0.6
+,"Tennessee","47","2022","2022","Sick sinus syndrome","I49.5",11,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Cardiac arrhythmia, unspecified","I49.9",111,7051339,1.6,1.3
+,"Tennessee","47","2022","2022","Congestive heart failure","I50.0",965,7051339,13.7,11.6
+,"Tennessee","47","2022","2022","Left ventricular failure","I50.1",13,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Heart failure, unspecified","I50.9",427,7051339,6.1,5.0
+,"Tennessee","47","2022","2022","Myocarditis, unspecified","I51.4",16,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Cardiovascular disease, unspecified","I51.6",182,7051339,2.6,2.1
+,"Tennessee","47","2022","2022","Cardiomegaly","I51.7",30,7051339,0.4,0.4
+,"Tennessee","47","2022","2022","Other ill-defined heart diseases","I51.8",25,7051339,0.4,0.3
+,"Tennessee","47","2022","2022","Heart disease, unspecified","I51.9",84,7051339,1.2,1.0
+,"Tennessee","47","2022","2022","Subarachnoid haemorrhage, unspecified","I60.9",145,7051339,2.1,1.8
+,"Tennessee","47","2022","2022","Intracerebral haemorrhage in brain stem","I61.3",18,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Intracerebral haemorrhage in cerebellum","I61.4",13,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Intracerebral haemorrhage, intraventricular","I61.5",50,7051339,0.7,0.6
+,"Tennessee","47","2022","2022","Intracerebral haemorrhage, unspecified","I61.9",363,7051339,5.1,4.3
+,"Tennessee","47","2022","2022","Subdural haemorrhage (acute)(nontraumatic)","I62.0",96,7051339,1.4,1.1
+,"Tennessee","47","2022","2022","Intracranial haemorrhage (nontraumatic), unspecified","I62.9",231,7051339,3.3,2.8
+,"Tennessee","47","2022","2022","Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries","I63.2",39,7051339,0.6,0.4
+,"Tennessee","47","2022","2022","Cerebral infarction due to thrombosis of cerebral arteries","I63.3",12,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Cerebral infarction due to embolism of cerebral arteries","I63.4",45,7051339,0.6,0.5
+,"Tennessee","47","2022","2022","Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries","I63.5",23,7051339,0.3,0.3
+,"Tennessee","47","2022","2022","Cerebral infarction, unspecified","I63.9",572,7051339,8.1,6.6
+,"Tennessee","47","2022","2022","Stroke, not specified as haemorrhage or infarction","I64",1311,7051339,18.6,15.1
+,"Tennessee","47","2022","2022","Cerebral atherosclerosis","I67.2",141,7051339,2.0,1.7
+,"Tennessee","47","2022","2022","Other specified cerebrovascular diseases","I67.8",100,7051339,1.4,1.2
+,"Tennessee","47","2022","2022","Cerebrovascular disease, unspecified","I67.9",224,7051339,3.2,2.7
+,"Tennessee","47","2022","2022","Sequelae of cerebral infarction","I69.3",57,7051339,0.8,0.7
+,"Tennessee","47","2022","2022","Sequelae of stroke, not specified as haemorrhage or infarction","I69.4",205,7051339,2.9,2.3
+,"Tennessee","47","2022","2022","Sequelae of other and unspecified cerebrovascular diseases","I69.8",237,7051339,3.4,2.9
+,"Tennessee","47","2022","2022","Atherosclerosis of arteries of extremities","I70.2",16,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Generalized and unspecified atherosclerosis","I70.9",62,7051339,0.9,0.7
+,"Tennessee","47","2022","2022","Dissection of aorta [any part]","I71.0",109,7051339,1.5,1.3
+,"Tennessee","47","2022","2022","Thoracic aortic aneurysm, without mention of rupture","I71.2",10,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Abdominal aortic aneurysm, ruptured","I71.3",52,7051339,0.7,0.6
+,"Tennessee","47","2022","2022","Abdominal aortic aneurysm, without mention of rupture","I71.4",22,7051339,0.3,0.2
+,"Tennessee","47","2022","2022","Aortic aneurysm of unspecified site, ruptured","I71.8",21,7051339,0.3,0.2
+,"Tennessee","47","2022","2022","Aneurysm of unspecified site","I72.9",20,7051339,0.3,0.2
+,"Tennessee","47","2022","2022","Peripheral vascular disease, unspecified","I73.9",174,7051339,2.5,2.0
+,"Tennessee","47","2022","2022","Embolism and thrombosis of unspecified artery","I74.9",15,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Arteriovenous fistula, acquired","I77.0",10,7051339,Unreliable,Unreliable
+,"Tennessee","47","2022","2022","Phlebitis and thrombophlebitis of other deep vessels of lower extremities","I80.2",61,7051339,0.9,0.8
+"Total","Tennessee","47","2022","2022",,,24392,7051339,345.9,284.8
+,"Tennessee","47","2023 ","2023","Mitral stenosis","I05.0",15,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Mitral valve disease, unspecified","I05.9",19,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Tricuspid insufficiency","I07.1",13,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Disorders of both mitral and aortic valves","I08.0",18,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Essential (primary) hypertension","I10",597,7126489,8.4,7.1
+,"Tennessee","47","2023 ","2023","Hypertensive heart disease with (congestive) heart failure","I11.0",1211,7126489,17.0,15.0
+,"Tennessee","47","2023 ","2023","Hypertensive heart disease without (congestive) heart failure","I11.9",1421,7126489,19.9,16.8
+,"Tennessee","47","2023 ","2023","Hypertensive renal disease with renal failure","I12.0",456,7126489,6.4,5.5
+,"Tennessee","47","2023 ","2023","Hypertensive renal disease without renal failure","I12.9",76,7126489,1.1,1.0
+,"Tennessee","47","2023 ","2023","Hypertensive heart and renal disease with (congestive) heart failure","I13.0",130,7126489,1.8,1.6
+,"Tennessee","47","2023 ","2023","Hypertensive heart and renal disease with renal failure","I13.1",186,7126489,2.6,2.3
+,"Tennessee","47","2023 ","2023","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","I13.2",428,7126489,6.0,5.3
+,"Tennessee","47","2023 ","2023","Hypertensive heart and renal disease, unspecified","I13.9",91,7126489,1.3,1.1
+,"Tennessee","47","2023 ","2023","Acute subendocardial myocardial infarction","I21.4",212,7126489,3.0,2.5
+,"Tennessee","47","2023 ","2023","Acute myocardial infarction, unspecified","I21.9",2955,7126489,41.5,33.6
+,"Tennessee","47","2023 ","2023","Acute ischaemic heart disease, unspecified","I24.9",76,7126489,1.1,0.9
+,"Tennessee","47","2023 ","2023","Atherosclerotic cardiovascular disease, so described","I25.0",2609,7126489,36.6,29.5
+,"Tennessee","47","2023 ","2023","Atherosclerotic heart disease","I25.1",3834,7126489,53.8,44.5
+,"Tennessee","47","2023 ","2023","Ischaemic cardiomyopathy","I25.5",155,7126489,2.2,1.8
+,"Tennessee","47","2023 ","2023","Other forms of chronic ischaemic heart disease","I25.8",12,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Chronic ischaemic heart disease, unspecified","I25.9",189,7126489,2.7,2.2
+,"Tennessee","47","2023 ","2023","Pulmonary embolism without mention of acute cor pulmonale","I26.9",203,7126489,2.8,2.4
+,"Tennessee","47","2023 ","2023","Other secondary pulmonary hypertension","I27.2",158,7126489,2.2,1.8
+,"Tennessee","47","2023 ","2023","Pulmonary heart disease, unspecified","I27.9",11,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Pericardial effusion (noninflammatory)","I31.3",18,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Acute and subacute infective endocarditis","I33.0",45,7126489,0.6,0.6
+,"Tennessee","47","2023 ","2023","Mitral (valve) insufficiency","I34.0",54,7126489,0.8,0.6
+,"Tennessee","47","2023 ","2023","Aortic (valve) stenosis","I35.0",224,7126489,3.1,2.8
+,"Tennessee","47","2023 ","2023","Aortic (valve) insufficiency","I35.1",15,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Other aortic valve disorders","I35.8",10,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Aortic valve disorder, unspecified","I35.9",31,7126489,0.4,0.3
+,"Tennessee","47","2023 ","2023","Endocarditis, valve unspecified","I38",118,7126489,1.7,1.4
+,"Tennessee","47","2023 ","2023","Dilated cardiomyopathy","I42.0",67,7126489,0.9,0.9
+,"Tennessee","47","2023 ","2023","Other hypertrophic cardiomyopathy","I42.2",12,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Alcoholic cardiomyopathy","I42.6",26,7126489,0.4,0.3
+,"Tennessee","47","2023 ","2023","Other cardiomyopathies","I42.8",10,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Cardiomyopathy, unspecified","I42.9",231,7126489,3.2,2.8
+,"Tennessee","47","2023 ","2023","Atrioventricular block, complete","I44.2",17,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Other specified conduction disorders","I45.8",26,7126489,0.4,0.3
+,"Tennessee","47","2023 ","2023","Sudden cardiac death, so described","I46.1",59,7126489,0.8,0.6
+,"Tennessee","47","2023 ","2023","Cardiac arrest, unspecified","I46.9",405,7126489,5.7,4.6
+,"Tennessee","47","2023 ","2023","Ventricular tachycardia","I47.2",28,7126489,0.4,0.3
+,"Tennessee","47","2023 ","2023","Atrial fibrillation and flutter","I48",509,7126489,7.1,6.1
+,"Tennessee","47","2023 ","2023","Ventricular fibrillation and flutter","I49.0",46,7126489,0.6,0.5
+,"Tennessee","47","2023 ","2023","Cardiac arrhythmia, unspecified","I49.9",82,7126489,1.2,0.9
+,"Tennessee","47","2023 ","2023","Congestive heart failure","I50.0",901,7126489,12.6,10.8
+,"Tennessee","47","2023 ","2023","Left ventricular failure","I50.1",17,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Heart failure, unspecified","I50.9",498,7126489,7.0,6.0
+,"Tennessee","47","2023 ","2023","Myocarditis, unspecified","I51.4",16,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Cardiovascular disease, unspecified","I51.6",247,7126489,3.5,2.9
+,"Tennessee","47","2023 ","2023","Cardiomegaly","I51.7",39,7126489,0.5,0.5
+,"Tennessee","47","2023 ","2023","Other ill-defined heart diseases","I51.8",19,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Heart disease, unspecified","I51.9",123,7126489,1.7,1.4
+,"Tennessee","47","2023 ","2023","Subarachnoid haemorrhage, unspecified","I60.9",146,7126489,2.0,1.8
+,"Tennessee","47","2023 ","2023","Intracerebral haemorrhage in hemisphere, subcortical","I61.0",11,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Intracerebral haemorrhage in brain stem","I61.3",27,7126489,0.4,0.3
+,"Tennessee","47","2023 ","2023","Intracerebral haemorrhage in cerebellum","I61.4",15,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Intracerebral haemorrhage, intraventricular","I61.5",47,7126489,0.7,0.6
+,"Tennessee","47","2023 ","2023","Intracerebral haemorrhage, unspecified","I61.9",328,7126489,4.6,3.8
+,"Tennessee","47","2023 ","2023","Subdural haemorrhage (acute)(nontraumatic)","I62.0",86,7126489,1.2,1.0
+,"Tennessee","47","2023 ","2023","Intracranial haemorrhage (nontraumatic), unspecified","I62.9",242,7126489,3.4,2.9
+,"Tennessee","47","2023 ","2023","Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries","I63.2",51,7126489,0.7,0.6
+,"Tennessee","47","2023 ","2023","Cerebral infarction due to embolism of cerebral arteries","I63.4",48,7126489,0.7,0.5
+,"Tennessee","47","2023 ","2023","Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries","I63.5",19,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Cerebral infarction, unspecified","I63.9",603,7126489,8.5,7.1
+,"Tennessee","47","2023 ","2023","Stroke, not specified as haemorrhage or infarction","I64",1126,7126489,15.8,13.1
+,"Tennessee","47","2023 ","2023","Cerebral aneurysm, nonruptured","I67.1",10,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Cerebral atherosclerosis","I67.2",131,7126489,1.8,1.6
+,"Tennessee","47","2023 ","2023","Other specified cerebrovascular diseases","I67.8",91,7126489,1.3,1.1
+,"Tennessee","47","2023 ","2023","Cerebrovascular disease, unspecified","I67.9",239,7126489,3.4,2.9
+,"Tennessee","47","2023 ","2023","Sequelae of cerebral infarction","I69.3",49,7126489,0.7,0.6
+,"Tennessee","47","2023 ","2023","Sequelae of stroke, not specified as haemorrhage or infarction","I69.4",190,7126489,2.7,2.2
+,"Tennessee","47","2023 ","2023","Sequelae of other and unspecified cerebrovascular diseases","I69.8",190,7126489,2.7,2.3
+,"Tennessee","47","2023 ","2023","Atherosclerosis of arteries of extremities","I70.2",11,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Generalized and unspecified atherosclerosis","I70.9",67,7126489,0.9,0.8
+,"Tennessee","47","2023 ","2023","Dissection of aorta [any part]","I71.0",108,7126489,1.5,1.3
+,"Tennessee","47","2023 ","2023","Thoracic aortic aneurysm, without mention of rupture","I71.2",15,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Abdominal aortic aneurysm, ruptured","I71.3",45,7126489,0.6,0.5
+,"Tennessee","47","2023 ","2023","Abdominal aortic aneurysm, without mention of rupture","I71.4",22,7126489,0.3,0.2
+,"Tennessee","47","2023 ","2023","Aortic aneurysm of unspecified site, ruptured","I71.8",18,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Aortic aneurysm of unspecified site, without mention of rupture","I71.9",14,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Aneurysm of unspecified site","I72.9",21,7126489,0.3,0.3
+,"Tennessee","47","2023 ","2023","Peripheral vascular disease, unspecified","I73.9",165,7126489,2.3,1.9
+,"Tennessee","47","2023 ","2023","Embolism and thrombosis of unspecified artery","I74.9",18,7126489,Unreliable,Unreliable
+,"Tennessee","47","2023 ","2023","Phlebitis and thrombophlebitis of other deep vessels of lower extremities","I80.2",66,7126489,0.9,0.9
+"Total","Tennessee","47","2023 ","2023",,,23476,7126489,329.4,275.4
+"Total","Tennessee","47",,,,,138250,41639064,332.0,275.6
+"Total",,,,,,,138250,41639064,332.0,275.6
+"---"
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race"
+"Query Parameters:"
+"ICD-10 Codes: I00-I99 (Diseases of the circulatory system)"
+"States: Tennessee (47)"
+"Group By: State; Year; Cause of death"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Jan 29, 2026 4:49:27 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Jan 29, 2026 4:49:27 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2023"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1"
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2021 are"
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of"
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,"
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year"
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010"
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"8. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"9. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"10. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"11. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#ICD-10 Changes."
