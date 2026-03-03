@@ -1,0 +1,119 @@
+breakdown,category,category_code, Deaths , Population ,Crude Rate,Lower CI,Upper CI,Year,is_total
+Age Groups,< 1 year,1,"142,638.00","25,878,128.00",551.2,548.3,554.1,,FALSE
+Age Groups,1-4 years,1 - 4.,"26,909.00","107,286,287.00",25.1,24.8,25.4,,FALSE
+Age Groups,5-14 years,5 - 14.,"40,729.00","287,785,979.00",14.2,14,14.3,,FALSE
+Age Groups,15-24 years,15-24.,"232,944.00","304,328,641.00",76.5,76.2,76.9,,FALSE
+Age Groups,25-34 years,25-34.,"473,427.00","320,700,526.00",147.6,147.2,148,,FALSE
+Age Groups,35-44 years,35-44.,"707,166.00","302,102,360.00",234.1,233.5,234.6,,FALSE
+Age Groups,45-54 years,45-54.,"1,240,236.00","285,266,952.00",434.8,434,435.5,,FALSE
+Age Groups,55-64 years,55-64.,"2,820,764.00","295,529,487.00",954.5,953.4,955.6,,FALSE
+Age Groups,65-74 years,65-74.,"4,422,787.00","232,109,954.00",1905.5,1903.7,1907.2,,FALSE
+Age Groups,75-84 years,75-84.,"5,461,004.00","119,210,323.00",4581,4577.1,4584.8,,FALSE
+Age Groups,85+ years,85+.,"6,416,146.00","44,899,628.00",14290,14278.9,14301,,FALSE
+Age Groups,Not Stated,NS.,740,,,,,,FALSE
+Age Groups,Total,,"21,985,490.00","2,325,098,265.00",945.6,945.2,946,,TRUE
+Sex,Female,F,"10,509,431.00","1,176,300,483.00",893.4,892.9,894,,FALSE
+Sex,Male,M,"11,476,059.00","1,148,797,782.00",999,998.4,999.5,,FALSE
+Sex,Total,,"21,985,490.00","2,325,098,265.00",945.6,945.2,946,,TRUE
+State,Alabama,1,"422,544.00","35,092,928.00",1204.1,1200.4,1207.7,,FALSE
+State,Alaska,2,"37,215.00","5,139,936.00",724,716.7,731.4,,FALSE
+State,Arizona,4,"490,593.00","51,521,005.00",952.2,949.6,954.9,,FALSE
+State,Arkansas,5,"252,991.00","21,289,765.00",1188.3,1183.7,1193,,FALSE
+State,California,6,"2,087,745.00","275,100,980.00",758.9,757.9,759.9,,FALSE
+State,Colorado,8,"309,397.00","40,749,117.00",759.3,756.6,761.9,,FALSE
+State,Connecticut,9,"234,747.00","25,219,005.00",930.8,927.1,934.6,,FALSE
+State,Delaware,10,"73,784.00","7,033,331.00",1049.1,1041.5,1056.6,,FALSE
+State,District of Columbia,11,"37,084.00","4,844,095.00",765.6,757.8,773.3,,FALSE
+State,Florida,12,"1,609,941.00","154,519,266.00",1041.9,1040.3,1043.5,,FALSE
+State,Georgia,13,"681,980.00","75,769,462.00",900.1,897.9,902.2,,FALSE
+State,Hawaii,15,"86,490.00","10,006,402.00",864.3,858.6,870.1,,FALSE
+State,Idaho,16,"113,833.00","13,174,487.00",864,859,869.1,,FALSE
+State,Illinois,17,"825,547.00","88,513,779.00",932.7,930.7,934.7,,FALSE
+State,Indiana,18,"503,024.00","47,604,546.00",1056.7,1053.8,1059.6,,FALSE
+State,Iowa,19,"230,772.00","22,316,864.00",1034.1,1029.9,1038.3,,FALSE
+State,Kansas,20,"209,318.00","20,521,508.00",1020,1015.6,1024.4,,FALSE
+State,Kentucky,21,"376,364.00","31,549,556.00",1192.9,1189.1,1196.7,,FALSE
+State,Louisiana,22,"357,230.00","32,339,867.00",1104.6,1101,1108.2,,FALSE
+State,Maine,23,"113,498.00","9,591,078.00",1183.4,1176.5,1190.3,,FALSE
+State,Maryland,24,"382,754.00","42,917,462.00",891.8,889,894.7,,FALSE
+State,Massachusetts,25,"433,629.00","48,792,493.00",888.7,886.1,891.4,,FALSE
+State,Michigan,26,"749,495.00","70,211,971.00",1067.5,1065.1,1069.9,,FALSE
+State,Minnesota,27,"344,467.00","39,863,793.00",864.1,861.2,867,,FALSE
+State,Mississippi,28,"254,636.00","20,702,222.00",1230,1225.2,1234.8,,FALSE
+State,Missouri,29,"478,241.00","43,203,194.00",1107,1103.8,1110.1,,FALSE
+State,Montana,30,"79,548.00","7,708,843.00",1031.9,1024.7,1039.1,,FALSE
+State,Nebraska,31,"127,540.00","13,716,687.00",929.8,924.7,934.9,,FALSE
+State,Nevada,32,"203,220.00","22,036,213.00",922.2,918.2,926.2,,FALSE
+State,New Hampshire,33,"96,078.00","9,677,753.00",992.8,986.5,999,,FALSE
+State,New Jersey,34,"562,543.00","63,993,602.00",879.1,876.8,881.4,,FALSE
+State,New Mexico,35,"155,581.00","14,772,424.00",1053.2,1048,1058.4,,FALSE
+State,New York,36,"1,193,990.00","137,284,074.00",869.7,868.2,871.3,,FALSE
+State,North Carolina,37,"744,034.00","74,604,177.00",997.3,995,999.6,,FALSE
+State,North Dakota,38,"49,304.00","5,422,151.00",909.3,901.3,917.3,,FALSE
+State,Ohio,39,"932,166.00","82,277,073.00",1133,1130.7,1135.3,,FALSE
+State,Oklahoma,40,"317,821.00","28,036,489.00",1133.6,1129.7,1137.5,,FALSE
+State,Oregon,41,"288,144.00","29,641,978.00",972.1,968.5,975.6,,FALSE
+State,Pennsylvania,42,"1,000,711.00","90,368,801.00",1107.4,1105.2,1109.5,,FALSE
+State,Rhode Island,44,"74,827.00","7,571,415.00",988.3,981.2,995.4,,FALSE
+State,South Carolina,45,"405,546.00","36,776,606.00",1102.7,1099.3,1106.1,,FALSE
+State,South Dakota,46,"61,645.00","6,308,798.00",977.1,969.4,984.8,,FALSE
+State,Tennessee,47,"562,298.00","48,866,814.00",1150.7,1147.7,1153.7,,FALSE
+State,Texas,48,"1,623,686.00","208,410,130.00",779.1,777.9,780.3,,FALSE
+State,Utah,49,"145,816.00","23,257,064.00",627,623.8,630.2,,FALSE
+State,Vermont,50,"45,766.00","4,462,226.00",1025.6,1016.2,1035,,FALSE
+State,Virginia,51,"544,624.00","60,496,553.00",900.3,897.9,902.6,,FALSE
+State,Washington,53,"447,849.00","54,139,634.00",827.2,824.8,829.6,,FALSE
+State,West Virginia,54,"178,959.00","12,480,931.00",1433.9,1427.2,1440.5,,FALSE
+State,Wisconsin,55,"406,500.00","41,129,034.00",988.4,985.3,991.4,,FALSE
+State,Wyoming,56,"39,975.00","4,070,683.00",982,972.4,991.6,,FALSE
+State,Total,,"21,985,490.00","2,325,098,265.00",945.6,945.2,946,,TRUE
+UCD - ICD-10 113 Cause List,#Anemias (D50-D64),GR113-045,"39,943.00","2,325,098,265.00",1.7,1.7,1.7,,FALSE
+UCD - ICD-10 113 Cause List,#Diabetes mellitus (E10-E14),GR113-046,"668,919.00","2,325,098,265.00",28.8,28.7,28.8,,FALSE
+UCD - ICD-10 113 Cause List,#Nutritional deficiencies (E40-E64),GR113-047,"122,463.00","2,325,098,265.00",5.3,5.2,5.3,,FALSE
+UCD - ICD-10 113 Cause List,Malnutrition (E40-E46),GR113-048,"119,674.00","2,325,098,265.00",5.1,5.1,5.2,,FALSE
+UCD - ICD-10 113 Cause List,Other nutritional deficiencies (E50-E64),GR113-049,"2,789.00","2,325,098,265.00",0.1,0.1,0.1,,FALSE
+UCD - ICD-10 113 Cause List,"#Meningitis (G00,G03)",GR113-050,"4,245.00","2,325,098,265.00",0.2,0.2,0.2,,FALSE
+UCD - ICD-10 113 Cause List,#Parkinson disease (G20-G21),GR113-051,"268,968.00","2,325,098,265.00",11.6,11.5,11.6,,FALSE
+UCD - ICD-10 113 Cause List,#Alzheimer disease (G30),GR113-052,"847,337.00","2,325,098,265.00",36.4,36.4,36.5,,FALSE
+UCD - ICD-10 113 Cause List,#Influenza and pneumonia (J09-J18),GR113-076,"344,740.00","2,325,098,265.00",14.8,14.8,14.9,,FALSE
+UCD - ICD-10 113 Cause List,Influenza (J09-J11),GR113-077,"40,048.00","2,325,098,265.00",1.7,1.7,1.7,,FALSE
+UCD - ICD-10 113 Cause List,Pneumonia (J12-J18),GR113-078,"304,692.00","2,325,098,265.00",13.1,13.1,13.2,,FALSE
+UCD - ICD-10 113 Cause List,"Other acute lower respiratory infections (J20-J22,U04)",GR113-079,"1,813.00","2,325,098,265.00",0.1,0.1,0.1,,FALSE
+UCD - ICD-10 113 Cause List,#Acute bronchitis and bronchiolitis (J20-J21),GR113-080,"1,290.00","2,325,098,265.00",0.1,0.1,0.1,,FALSE
+UCD - ICD-10 113 Cause List,"Other and unspecified acute lower respiratory infections (J22,U04)",GR113-081,523,"2,325,098,265.00",0,0,0,,FALSE
+UCD - ICD-10 113 Cause List,#Chronic lower respiratory diseases (J40-J47),GR113-082,"1,049,846.00","2,325,098,265.00",45.2,45.1,45.2,,FALSE
+UCD - ICD-10 113 Cause List,"Bronchitis, chronic and unspecified (J40-J42)",GR113-083,"2,791.00","2,325,098,265.00",0.1,0.1,0.1,,FALSE
+UCD - ICD-10 113 Cause List,Emphysema (J43),GR113-084,"53,820.00","2,325,098,265.00",2.3,2.3,2.3,,FALSE
+UCD - ICD-10 113 Cause List,Asthma (J45-J46),GR113-085,"25,575.00","2,325,098,265.00",1.1,1.1,1.1,,FALSE
+UCD - ICD-10 113 Cause List,"Other chronic lower respiratory diseases (J44,J47)",GR113-086,"967,660.00","2,325,098,265.00",41.6,41.5,41.7,,FALSE
+UCD - ICD-10 113 Cause List,"#Pneumoconioses and chemical effects (J60-J66,J68,U07.0)",GR113-087,"4,003.00","2,325,098,265.00",0.2,0.2,0.2,,FALSE
+UCD - ICD-10 113 Cause List,#Pneumonitis due to solids and liquids (J69),GR113-088,"135,334.00","2,325,098,265.00",5.8,5.8,5.9,,FALSE
+UCD - ICD-10 113 Cause List,"Other diseases of respiratory system (J00-J06,J30- J39,J67,J70-J98)",GR113-089,"328,518.00","2,325,098,265.00",14.1,14.1,14.2,,FALSE
+UCD - ICD-10 113 Cause List,#Peptic ulcer (K25-K28),GR113-090,"26,715.00","2,325,098,265.00",1.1,1.1,1.2,,FALSE
+UCD - ICD-10 113 Cause List,#Diseases of appendix (K35-K38),GR113-091,"3,111.00","2,325,098,265.00",0.1,0.1,0.1,,FALSE
+UCD - ICD-10 113 Cause List,#Hernia (K40-K46),GR113-092,"17,291.00","2,325,098,265.00",0.7,0.7,0.8,,FALSE
+UCD - ICD-10 113 Cause List,"#Chronic liver disease and cirrhosis (K70,K73-K74)",GR113-093,"354,722.00","2,325,098,265.00",15.3,15.2,15.3,,FALSE
+UCD - ICD-10 113 Cause List,Alcoholic liver disease (K70),GR113-094,"197,181.00","2,325,098,265.00",8.5,8.4,8.5,,FALSE
+UCD - ICD-10 113 Cause List,Other chronic liver disease and cirrhosis (K73-K74),GR113-095,"157,541.00","2,325,098,265.00",6.8,6.7,6.8,,FALSE
+UCD - ICD-10 113 Cause List,#Cholelithiasis and other disorders of gallbladder (K80-K82),GR113-096,"29,691.00","2,325,098,265.00",1.3,1.3,1.3,,FALSE
+UCD - ICD-10 113 Cause List,"#Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",GR113-097,"378,127.00","2,325,098,265.00",16.3,16.2,16.3,,FALSE
+UCD - ICD-10 113 Cause List,"Acute and rapidly progressive nephritic and nephrotic syndrome (N00-N01,N04)",GR113-098,"5,259.00","2,325,098,265.00",0.2,0.2,0.2,,FALSE
+UCD - ICD-10 113 Cause List,"Chronic glomerulonephritis, nephritis and nephropathy not specified as acute or chronic, and renal sclerosis unspecified (N02-N03,N05-N07,N26)",GR113-099,"2,169.00","2,325,098,265.00",0.1,0.1,0.1,,FALSE
+UCD - ICD-10 113 Cause List,Renal failure (N17-N19),GR113-100,"370,491.00","2,325,098,265.00",15.9,15.9,16,,FALSE
+UCD - ICD-10 113 Cause List,"Other disorders of kidney (N25,N27)",GR113-101,208,"2,325,098,265.00",0,0,0,,FALSE
+UCD - ICD-10 113 Cause List,"#Infections of kidney (N10-N12,N13.6,N15.1)",GR113-102,"7,916.00","2,325,098,265.00",0.3,0.3,0.3,,FALSE
+UCD - ICD-10 113 Cause List,#Hyperplasia of prostate (N40),GR113-103,"5,067.00","2,325,098,265.00",0.2,0.2,0.2,,FALSE
+UCD - ICD-10 113 Cause List,#Inflammatory diseases of female pelvic organs (N70-N76),GR113-104,"1,404.00","2,325,098,265.00",0.1,0.1,0.1,,FALSE
+UCD - ICD-10 113 Cause List,"#Pregnancy, childbirth and the puerperium (O00-O99)",GR113-105,"8,369.00","2,325,098,265.00",0.4,0.4,0.4,,FALSE
+UCD - ICD-10 113 Cause List,Pregnancy with abortive outcome (O00-O07),GR113-106,252,"2,325,098,265.00",0,0,0,,FALSE
+UCD - ICD-10 113 Cause List,"Other complications of pregnancy, childbirth and the puerperium (O10-O99)",GR113-107,"8,117.00","2,325,098,265.00",0.3,0.3,0.4,,FALSE
+UCD - ICD-10 113 Cause List,"#Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",GR113-109,"68,734.00","2,325,098,265.00",3,2.9,3,,FALSE
+UCD - ICD-10 113 Cause List,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)",GR113-110,"232,714.00","2,325,098,265.00",10,10,10,,FALSE
+UCD - ICD-10 113 Cause List,All other diseases (Residual),GR113-111,"2,680,948.00","2,325,098,265.00",115.3,115.2,115.4,,FALSE
+Year,2018,2018,"2,839,205.00","327,167,434.00",867.8,866.8,868.8,2018,FALSE
+Year,2019,2019,"2,854,838.00","328,239,523.00",869.7,868.7,870.8,2019,FALSE
+Year,2020,2020,"3,383,729.00","329,484,123.00",1027,1025.9,1028.1,2020,FALSE
+Year,2021,2021,"3,464,231.00","331,893,745.00",1043.8,1042.7,1044.9,2021,FALSE
+Year,2022,2022,"3,279,857.00","333,287,557.00",984.1,983,985.2,2022,FALSE
+Year,2023,2023,"3,090,964.00","334,914,895.00",922.9,921.9,923.9,2023,FALSE
+Year,2024,2024,"3,072,666.00","340,110,988.00",903.4,902.4,904.4,2024,FALSE

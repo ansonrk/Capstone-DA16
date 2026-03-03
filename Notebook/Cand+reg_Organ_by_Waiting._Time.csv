@@ -1,0 +1,154 @@
+All _Organs,Type,Category_type,All Time,< 30 Days,30 to < 90 Days,90 Days to < 6 Months,6 Months to < 1 Year,1 Year to < 2 Years,2 Years to < 3 Years,3 Years to < 5 Years,5 or More Years
+All Organs,All _Races,Registrations,"120,648","6,033","8,741","13,551","21,536","26,703","16,851","16,546","10,687"
+,,Candidates,"108,691","5,825","8,378","12,913","20,424","25,234","16,152","15,935","10,384"
+,White,Registrations,"45,386","2,580","3,594","5,424","8,399","9,920","6,090","5,781","3,598"
+,White,Candidates,"41,193","2,490","3,457","5,148","7,946","9,379","5,815","5,552","3,488"
+,Black,Registrations,"33,298","1,566","2,277","3,709","5,924","7,627","4,854","4,633","2,708"
+,Black,Candidates,"29,323","1,516","2,164","3,529","5,571","7,147","4,623","4,446","2,628"
+,Hispanic/Latino,Registrations,"28,006","1,230","1,849","2,923","4,787","6,192","4,046","4,091","2,888"
+,Hispanic/Latino,Candidates,"25,967","1,190","1,786","2,816","4,608","5,944","3,930","3,979","2,820"
+,Unknown,Registrations,"1,207",121,184,242,302,283,74,1,0
+,Unknown,Candidates,"1,177",117,181,238,295,278,72,1,0
+,Asian,Registrations,"9,875",408,643,949,"1,637","2,016","1,371","1,654","1,197"
+,Asian,Candidates,"8,930",394,620,910,"1,574","1,912","1,329","1,600","1,158"
+Kidney,All Races,Registrations,"103,106","4,232","6,689","10,883","18,053","23,221","15,138","15,223","9,667"
+,All Races,Candidates,"94,408","4,200","6,588","10,652","17,527","22,458","14,766","14,838","9,511"
+,White,Registrations,"35,702","1,517","2,412","3,967","6,518","8,084","5,171","5,052","2,981"
+,White,Candidates,"32,949","1,507","2,373","3,872","6,323","7,844","5,045","4,920","2,943"
+,Black,Registrations,"30,434","1,301","1,966","3,319","5,350","7,023","4,556","4,374","2,545"
+,Black,Candidates,"27,289","1,291","1,938","3,236","5,169","6,723","4,406","4,247","2,495"
+,Hispanic/Latino,Registrations,"24,445",904,"1,484","2,353","4,034","5,434","3,679","3,845","2,712"
+,Hispanic/Latino,Candidates,"23,053",899,"1,469","2,329","3,965","5,330","3,626","3,779","2,681"
+,Unknown,Registrations,918,83,137,168,241,230,59,0,0
+,Unknown,Candidates,913,83,137,167,241,230,59,0,0
+,Asian,Registrations,"9,100",331,538,830,"1,494","1,868","1,295","1,594","1,150"
+,Asian,Candidates,"8,319",329,529,814,"1,449","1,799","1,274","1,554","1,119"
+Liver,All Races,Registrations,"8,975","1,013","1,131","1,496","1,821","1,611",780,598,525
+,All Races,Candidates,"8,850","1,009","1,129","1,488","1,816","1,603",778,598,522
+,White,Registrations,"5,532",658,709,890,"1,105",980,479,376,335
+,White,Candidates,"5,441",655,707,888,"1,100",973,479,376,332
+,Black,Registrations,584,55,67,101,110,106,49,50,46
+,Black,Candidates,579,55,67,101,110,106,49,50,46
+,Hispanic/Latino,Registrations,"2,077",215,241,363,442,402,188,122,104
+,Hispanic/Latino,Candidates,"2,066",214,241,361,442,401,187,122,104
+,Unknown,Registrations,154,19,25,38,37,26,8,1,0
+,Unknown,Candidates,154,19,25,38,37,26,8,1,0
+,Asian,Registrations,458,47,70,73,89,70,37,40,32
+,Asian,Candidates,451,47,70,71,89,70,37,40,32
+Pancreas,All Races,Registrations,834,33,50,83,127,212,113,104,112
+,All Races,Candidates,823,32,50,82,124,210,113,104,112
+,White,Registrations,421,13,26,48,61,102,50,53,68
+,White,Candidates,415,13,26,48,60,100,50,53,68
+,Black,Registrations,183,11,12,12,35,39,27,27,20
+,Black,Candidates,179,10,12,11,34,39,27,27,20
+,Hispanic/Latino,Registrations,159,5,8,18,22,49,22,19,16
+,Hispanic/Latino,Candidates,159,5,8,18,22,49,22,19,16
+,Unknown,Registrations,10,0,1,1,2,4,2,0,0
+,Unknown,Candidates,10,0,1,1,2,4,2,0,0
+,Asian,Registrations,40,3,2,4,5,12,9,1,4
+,Asian,Candidates,39,3,2,4,4,12,9,1,4
+Kidney / Pancreas,All Races/Ethnicities,Registrations,"2,475",119,220,318,535,665,333,203,82
+,White,Candidates,"2,365",119,218,313,523,653,332,202,81
+,White,Registrations,944,43,73,122,197,253,143,75,38
+,Black,Registrations,744,40,85,97,170,188,83,61,20
+,Black,Candidates,708,40,85,97,166,181,83,61,19
+,Hispanic/Latino,Registrations,544,26,40,65,117,149,82,47,18
+,Hispanic/Latino,Candidates,528,26,40,63,115,147,82,46,18
+,Unknown,Registrations,36,1,7,10,9,6,3,0,0
+,Unknown,Candidates,36,1,7,10,9,6,3,0,0
+,Asian,Registrations,129,8,11,17,24,38,15,12,4
+,Asian,Candidates,126,8,11,17,24,37,15,12,4
+Heart,All Races/Ethnicities,Registrations,"4,051",407,432,519,802,830,426,382,253
+,All Races/Ethnicities,Candidates,"4,006",407,432,518,799,828,426,381,252
+,White,Registrations,"2,038",199,227,242,392,401,216,206,155
+,White,Candidates,"2,019",199,227,242,391,401,216,206,154
+,Black,Registrations,"1,174",128,118,149,228,247,123,114,67
+,Black,Candidates,"1,153",128,118,149,226,245,123,113,67
+,Hispanic/Latino,Registrations,574,44,48,73,138,129,68,49,25
+,Hispanic/Latino,Candidates,572,44,48,73,138,129,68,49,25
+,Unknown,Registrations,69,13,13,17,9,15,2,0,0
+,Unknown,Candidates,69,13,13,17,9,15,2,0,0
+,Asian,Registrations,108,13,12,20,22,22,9,6,4
+,Asian,Candidates,108,13,12,20,22,22,9,6,4
+Lung,All Races/Ethnicities,Registrations,"1,006",216,203,228,174,122,34,17,12
+,All Races/Ethnicities,Candidates,"1,002",215,203,228,174,122,34,17,12
+,White,Registrations,645,146,139,140,111,77,16,9,7
+,White,Candidates,642,145,139,140,111,77,16,9,7
+,Black,Registrations,145,27,25,29,30,17,11,4,2
+,Black,Candidates,144,27,25,29,30,17,11,4,2
+,Hispanic/Latino,Registrations,159,33,25,46,27,18,4,3,3
+,Hispanic/Latino,Candidates,159,33,25,46,27,18,4,3,3
+,Unknown,Registrations,16,4,1,6,3,2,0,0,0
+,Unknown,Candidates,16,4,1,6,3,2,0,0,0
+,Asian,Registrations,31,5,9,5,3,6,2,1,0
+,Asian,Candidates,31,5,9,5,3,6,2,1,0
+Heart / Lung,All Races/Ethnicities,Registrations,26,2,2,4,3,4,5,2,4
+,All Races/Ethnicities,Candidates,26,2,2,4,3,4,5,2,4
+,White,Registrations,14,0,1,4,2,2,0,2,3
+,White,Candidates,14,0,1,4,2,2,0,2,3
+,Black,Registrations,7,1,1,0,0,2,3,0,0
+,Black,Candidates,7,1,1,0,0,2,3,0,0
+,Hispanic/Latino,Registrations,4,1,0,0,1,0,1,0,1
+,Hispanic/Latino,Candidates,4,1,0,0,1,0,1,0,1
+,Asian,Registrations,1,0,0,0,0,0,1,0,0
+,Asian,Candidates,1,0,0,0,0,0,1,0,0
+Intestine,All Races/Ethnicities,Registrations,165,9,13,19,21,37,17,17,32
+,All Races/Ethnicities,Candidates,163,9,13,19,21,37,17,17,32
+,White,Registrations,83,3,6,11,13,20,11,8,11
+,White,Candidates,83,3,6,11,13,20,11,8,11
+,Black,Registrations,25,3,3,1,1,5,1,3,8
+,Black,Candidates,25,3,3,1,1,5,1,3,8
+,Hispanic/Latino,Registrations,43,1,3,5,6,11,2,6,9
+,Hispanic/Latino,Candidates,43,1,3,5,6,11,2,6,9
+,Unknown,Registrations,4,1,0,2,1,0,0,0,0
+,Unknown,Candidates,3,1,0,2,1,0,0,0,0
+,Asian,Registrations,8,1,1,0,0,0,3,0,3
+,Asian,Candidates,8,1,1,0,0,0,3,0,3
+,All  States,State_Abbrev.,"120,648","103,106","8,975",834,"2,475","4,051","1,006",26,165
+,Alabama,AL,"1,241",995,191,2,18,24,10,0,0
+,Arizona,AZ,"2,437","2,098",221,4,43,57,14,0,0
+,Arkansas,AR,392,338,22,0,6,26,0,0,0
+,California,CA,"20,869","18,467","1,428",99,369,353,110,2,40
+,Colorado,CO,"1,555","1,307",172,12,10,49,5,0,0
+,Connecticut,CT,"1,202","1,024",138,2,0,37,0,0,0
+,Delaware,DE,148,139,6,0,0,3,0,0,0
+,District of Columbia,DC,"1,435","1,135",199,15,23,52,0,0,11
+,Florida,FL,"6,850","5,837",533,27,106,282,50,1,14
+,Georgia,GA,"3,507","3,102",185,1,44,166,9,0,0
+,Hawaii,HI,352,321,27,0,4,0,0,0,0
+,Illinois,IL,"4,607","3,894",213,76,156,211,47,0,10
+,Indiana,IN,"1,520","1,249",108,10,46,89,2,0,16
+,Iowa,IA,620,550,18,4,25,17,6,0,0
+,Kansas,KS,552,379,125,0,28,20,0,0,0
+,Kentucky,KY,"1,040",865,96,0,19,45,15,0,0
+,Louisiana,LA,"2,023","1,731",159,5,74,49,5,0,0
+,Maine,ME,234,234,0,0,0,0,0,0,0
+,Maryland,MD,"2,146","1,670",363,5,41,42,24,0,0
+,Massachusetts,MA,"4,127","3,560",329,28,44,136,29,0,1
+,Michigan,MI,"2,707","2,339",110,24,38,120,73,1,2
+,Minnesota,MN,"2,558","1,967",187,81,183,110,29,1,0
+,Mississippi,MS,554,492,40,0,11,11,0,0,0
+,Missouri,MO,"2,221","1,923",135,0,59,76,28,0,0
+,Nebraska,NE,484,350,70,7,2,43,4,0,8
+,Nevada,NV,409,391,0,0,18,0,0,0,0
+,New Hampshire,NH,254,254,0,0,0,0,0,0,0
+,New Jersey,NJ,"2,656","2,446",90,16,63,39,2,0,0
+,New Mexico,NM,441,435,0,0,6,0,0,0,0
+,New York,NY,"8,359","7,072",544,131,134,365,97,2,13
+,North Carolina,NC,"4,491","4,035",102,71,116,145,14,3,4
+,North Dakota,ND,120,120,0,0,0,0,0,0,0
+,Ohio,OH,"2,973","2,259",228,25,67,297,74,6,15
+,Oklahoma,OK,816,663,87,0,16,34,16,0,0
+,Oregon,OR,"1,246","1,105",89,3,22,27,0,0,0
+,Pennsylvania,PA,"6,124","5,144",473,56,129,168,119,4,31
+,Puerto Rico,PR,496,435,26,0,29,6,0,0,0
+,Rhode Island,RI,387,387,0,0,0,0,0,0,0
+,South Carolina,SC,"2,235","1,917",128,17,88,78,7,0,0
+,South Dakota,SD,435,396,0,3,36,0,0,0,0
+,Tennessee,TN,"3,180","2,858",132,14,52,118,6,0,0
+,Texas,TX,"12,459","10,409","1,363",33,126,427,96,3,0
+,Utah,UT,998,834,55,3,25,73,8,0,0
+,Virginia,VA,"3,682","3,124",267,37,92,128,32,2,0
+,Washington,WA,"1,685","1,348",188,9,41,46,53,0,0
+,West Virginia,WV,183,177,0,0,0,6,0,0,0
+,Wisconsin,WI,"1,638","1,331",128,14,66,76,22,1,0
