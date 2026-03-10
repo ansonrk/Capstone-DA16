@@ -11,7 +11,7 @@ This topic is deeply personal. My son underwent a heart transplant, giving me fi
 
 
 # Primary Question
-Are there measurable disparities in access to heart, kidney, and lung transplants in the United States based on demographic, socioeconomic, and geographic factors?
+* Are there measurable disparities in access to heart, kidney, and lung transplants in the United States based on demographic, socioeconomic, and geographic factors?
 
 # Supporting Questions
 * Do transplant rates differ by race, ethnicity, sex, or age?
@@ -33,24 +33,24 @@ Are there measurable disparities in access to heart, kidney, and lung transplant
 * data/CDC_MORTALITY_cleaned_joined_long.csv
 
 # Key Definitions
-Registration: one listing on a waiting list. A person may have multiple registrations (multiple centers and/or multiple organs).
-Candidate: one unique patient (counted once, even if multiple listings/organs).
-Waitlist burden (per 100k): waitlisted / population × 100,000.
-Long-wait share (≥ 1 year): percent of waitlisted candidates/registrations waiting at least one year.
-Crude mortality rate: overall population death rate (used here as regional context; not waitlist-specific mortality).
+* Registration: one listing on a waiting list. A person may have multiple registrations (multiple centers and/or multiple organs).
+* Candidate: one unique patient (counted once, even if multiple listings/organs).
+* Waitlist burden (per 100k): waitlisted / population × 100,000.
+* Long-wait share (≥ 1 year): percent of waitlisted candidates/registrations waiting at least one year.
+* Crude mortality rate: overall population death rate (used here as regional context; not waitlist-specific mortality).
 
 
 # Data preparation
-Clean numeric fields (commas, percents, missing values)
-Harmonize geography (state/region labels; state abbreviations for mapping)
-Forward-fill organ labels in grouped bucket tables
-Reshape wait-time buckets (wide → long) and compute long-wait share (≥1 year)
+* Clean numeric fields (commas, percents, missing values)
+* Harmonize geography (state/region labels; state abbreviations for mapping)
+* Forward-fill organ labels in grouped bucket tables
+* Reshape wait-time buckets (wide → long) and compute long-wait share (≥1 year)
 
 # Analysis
-Compare waitlist burden per 100k by organ × region/state
-Compare long-wait share (≥1 year) by organ × region
-Examine race/ethnicity wait-time bucket patterns using candidate buckets
-Use uninsured, income, and crude mortality as ecological context indicators
+* Compare waitlist burden per 100k by organ × region/state
+* Compare long-wait share (≥1 year) by organ × region
+* Examine race/ethnicity wait-time bucket patterns using candidate buckets
+* Use uninsured, income, and crude mortality as ecological context indicators
 
 # Key Findings
 * Access burden is not evenly distributed: Kidney shows the highest waitlist burden per 100k and the highest long-wait share (≥1 year). 
