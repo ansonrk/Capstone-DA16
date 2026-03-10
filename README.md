@@ -1,7 +1,7 @@
 # TRANSPLANT EQUITY IN THE UNITED STATES
-**NASHVILLE SOFTWARE SCHOOL**
-**COHORT DA16**
-**AUTHOR: RICHARD ANSON**
+* **NASHVILLE SOFTWARE SCHOOL**
+* **COHORT DA16**
+* **AUTHOR: RICHARD ANSON**
 
 # Overview
 This capstone project examines equity in access to heart, kidney, and lung transplants in the United States. Although organ transplantation is a life‑saving intervention, access to evaluation, waitlisting, and receipt of organs is not equally distributed across populations. This project aims to identify disparities in transplant access and outcomes based on demographic, socioeconomic, and geographic factors.
