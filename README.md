@@ -21,9 +21,9 @@ Are there measurable disparities in access to heart, kidney, and lung transplant
 
 
 # Data Sources
-UNOS/OPTN: waitlist burden, long-wait shares, candidate wait-time buckets, transplant totals
-U.S. Census: population denominators + socioeconomic context
-CDC mortality: regional mortality background measures
+* UNOS/OPTN: waitlist burden, long-wait shares, candidate wait-time buckets, transplant totals
+* U.S. Census: population denominators + socioeconomic context
+* CDC mortality: regional mortality background measures
 
 # Files used
 data/uno_waitlist.csv
