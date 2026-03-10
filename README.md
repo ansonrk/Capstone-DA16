@@ -26,11 +26,11 @@ Are there measurable disparities in access to heart, kidney, and lung transplant
 * CDC mortality: regional mortality background measures
 
 # Files used
-data/uno_waitlist.csv
-data/Cand+reg_Organ_by_Waiting._Time.csv
-data/uno_transplant.csv
-data/census_cleaned.csv
-data/CDC_MORTALITY_cleaned_joined_long.csv
+* data/uno_waitlist.csv
+* data/Cand+reg_Organ_by_Waiting._Time.csv
+* data/uno_transplant.csv
+* data/census_cleaned.csv
+* data/CDC_MORTALITY_cleaned_joined_long.csv
 
 # Key Definitions
 Registration: one listing on a waiting list. A person may have multiple registrations (multiple centers and/or multiple organs).
