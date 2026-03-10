@@ -10,6 +10,7 @@ Supporting Questions
 • Are there differences in wait times across demographic or geographic groups?
 • How does insurance status or region relate to the likelihood of receiving a transplant?
 • Are outcome measures (e.g., transplant rates or mortality while waiting) unevenly distributed?
+
 Relevant Research
 • Studies from the National Academies of Sciences and the CDC have documented racial and socioeconomic disparities in organ transplantation.
 • Research using UNOS and OPTN data has shown that minority patients are less likely to be waitlisted and more likely to experience longer wait times.
